@@ -1,6 +1,6 @@
 # 회원 관리 API (Spring Boot)
 
-프론트엔드와 협업하여 개발한 회원 관리 CRUD API입니다.
+회원 관리 CRUD API입니다.
 
 ## 🚀 기능
 
